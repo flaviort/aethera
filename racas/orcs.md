@@ -28,10 +28,8 @@ Raça guerreira por natureza, os orcs habitam as terras mais inóspitas do mundo
 
 Tendem a venerar divindades ligadas ao poder e ao conflito:
 
-- **Vulkar** (Fogo) — a mais venerada
-- **Morveth** (Morte) — amplamente reverenciada
-- **Morveth** (Morte) — respeitada, não temida
-- **Vulkar** (Fogo) — especialmente entre clãs das regiões vulcânicas
+- **Vulkar** (Fogo) — a mais venerada, especialmente entre clãs das regiões vulcânicas
+- **Morveth** (Morte) — amplamente reverenciada / respeitada, não temida
 - **Noctra** (Trevas) — entre clãs mais isolados
 
 Dificilmente um orc venerará as divindades de Justiça, Amor ou Luz.
