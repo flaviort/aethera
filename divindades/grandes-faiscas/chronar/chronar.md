@@ -72,19 +72,21 @@ O que Chronar fez foi muito mais sutil — e muito mais terrível: ela **deixou 
 
 Sonhos repetidos começaram a visitar monges do tempo. Mapas celestes passaram a apresentar erros que não eram erros. Certos templos perdiam horas inteiras sem explicação. Cronistas registravam páginas com a mesma data escrita duas vezes. As raças aéreas ouviram, nos ventos altos, fragmentos de um aviso que nenhuma língua conseguia fixar por completo.
 
-Os mortais é que transformaram esse acúmulo de presságios em ação. Foram sacerdotes, magos, oráculos e guardiões da memória que, apavorados com o que liam nos sinais, ergueram aquilo que a posteridade chamaria de **Grande Selamento**.
+Os mortais é que transformaram esse acúmulo de presságios em ação — mas não apenas os mortais.
+
+O que ergueram juntos seria chamado de **Grande Selamento**. No centro estavam **Os Filhos do Eco** — seres limiares que ainda carregavam no sangue o eco da dança primordial, a ponte indispensável entre o poder divino e o plano material. Sem eles, os sinais de Chronar teriam permanecido sinais: os presságios de uma Primordial não têm alcance suficiente para agir diretamente sobre algo da magnitude de uma faísca primordial no mundo físico. Os Filhos do Eco foram o fio que conectou a visão ao ato.
+
+Cada camada da coalizão contribuiu com o que apenas ela podia dar. As Primordiais envolvidas cederam princípios que passaram a governar o Espaço-Entre. As entidades menores forneceram a substância. Os sábios mortais formularam a intenção. E Chronar — que não pôde participar diretamente sem distorcer os próprios fios do tempo que tentava preservar — contribuiu de uma forma que nenhum dos outros viu: ela *não interferiu* nos momentos em que poderia. Deixou que os Filhos do Eco encontrassem os sinais. Deixou que os sábios chegassem às conclusões erradas nas partes certas. Deixou o Selamento acontecer sem corrigi-lo, mesmo sabendo que era imperfeito.
 
 Essa distinção importa.
 
-Não houve um conselho das divindades reunido para condenar Iraeth. Houve uma leitura mortal do terror. Houve interpretação. Houve medo. Houve, talvez, também, um excesso de zelo diante de um futuro insuportável.
+Não houve conselho das divindades reunido para condenar a décima terceira. Houve uma leitura mortal do terror, filtrada pelos sinais que Chronar escolheu deixar. Houve interpretação. Houve medo. Houve excesso de zelo diante de um futuro insuportável.
 
 É por isso que o Selamento permanece cercado por ambiguidade moral: nasceu de um presságio real, mas também da escolha profundamente humana de aprisionar aquilo que ainda não havia se tornado plenamente o que temiam.
 
-Chronar sabe o que aconteceu. Sabe que ao deixar aqueles sinais, colocou em movimento uma cadeia de eventos que produziu a versão de Iraeth que causou o Eclipse. Que ao tentar prevenir o Silêncio Final, pode ter contribuído para torná-lo mais provável. Esse pensamento ela não partilha com ninguém. Seria admitir não apenas erro de cálculo, mas a possibilidade de que visão ampla demais pode ser tão cega quanto visão nenhuma.
+Chronar sabe o que fez. Sabe que ao deixar aqueles sinais, colocou em movimento uma cadeia de eventos que produzirá a versão da décima terceira que causará o Eclipse. Que ao tentar prevenir o Silêncio Final, pode ter contribuído para torná-lo mais provável. Esse pensamento ela não partilha com ninguém. Seria admitir não apenas erro de cálculo, mas a possibilidade de que visão ampla demais pode ser tão cega quanto visão nenhuma.
 
-Quando Iraeth rompeu o Selo, os templos de Chronar em todo Aethera ficaram em silêncio absoluto. Não como reação ao Eclipse — os sinais de Chronar sempre foram sutis, e o Eclipse seria o momento de maior sutileza possível. Mas como se Chronar estivesse voltada completamente para um único ponto no tecido do tempo, calculando algo que exige atenção total.
-
-Os monges do Tempo consideram esse silêncio o pior presságio possível.
+Quando Iraeth romper o Selo — e Chronar já viu futuros suficientes para não usar "se" —, não estará lá para recebê-la. Não porque não queira. Porque viu o que acontece quando está. E às vezes a coisa mais sábia que uma divindade do Tempo pode fazer é não aparecer.
 
 ---
 
@@ -141,17 +143,25 @@ Quando ela está em algo que só pode ser descrito como **alegria** — a emoç�
 
 ---
 
-## IX. O Silêncio Após o Eclipse
+## IX. O Presságio que Ninguém Consegue Nomear
 
-Desde o **Eclipse Cósmico**, os templos de Chronar são mencionados em todo Aethera com apreensão crescente.
+Algo mudou nos templos de Chronar.
 
-Sempre houve sinais discretos em seus santuários: correntes de ar que mudavam de direção sem motivo, sinos que tocavam sozinhos antes de grandes tragédias, escribas que sonhavam a mesma data por semanas inteiras. Depois do Eclipse, porém, esses sinais cessaram quase por completo.
+Não de repente — gradualmente, ao longo dos últimos séculos, na mesma proporção em que as fissuras foram aparecendo e as distorções no tempo foram se tornando mais frequentes. Os monges mais atentos perceberam antes de conseguir articular o que perceberam. Os escribas notaram primeiro nas margens: os sonhos que registravam pareciam diferentes em qualidade, não em conteúdo. Mais pesados. Como se a mesma mensagem chegasse agora carregando algo que antes não carregava.
 
-O problema não é o caos. É o **silêncio**.
+Sempre houve sinais discretos nos santuários de Chronar: correntes de ar que mudavam sem motivo, sinos que tocavam antes de tragédias, escribas que sonhavam a mesma data por semanas. Esses sinais continuam. Mas há algo novo na textura deles — algo que os sacerdotes mais experientes descrevem com vocabulário que nunca haviam precisado usar antes para Chronar.
 
-Para qualquer outro culto, a ausência de manifestação seria lida como afastamento. Para os monges do Tempo, é pior do que isso. É como se Chronar estivesse voltada para um ponto de ruptura tão profundo que todo o restante tivesse se tornado secundário. Alguns acreditam que ela concentra sua presença nas Fissuras abertas pelo Eclipse. Outros temem que o próprio fluxo do tempo tenha sofrido um dano que nem ela consegue corrigir sem custo.
+**Luto.**
 
-Nenhuma dessas hipóteses consola.
+Não luto por algo que aconteceu. Por algo que se aproxima. Presságios que antes apontavam para eventos e agora parecem apontar para um *peso* — uma qualidade emocional antes de uma informação factual. Como se Chronar, que carrega o arquivo de tudo que deixou de acontecer, estivesse agora carregando algo adicional: o arquivo de tudo que vai acontecer e que não pode ser evitado.
+
+Alguns monges interpretam isso como sinal de catástrofe iminente e pregam preparação. Outros — os mais velhos, os que passaram décadas aprendendo a ler o silêncio de Chronar em suas camadas — chegam a uma conclusão diferente e mais perturbadora: Chronar não está em luto pelo que virá. Está em luto pelo que *ela mesma fez*. Pelos fios que puxou. Pelas escolhas que deixou acontecer. Pela cadeia de eventos que colocou em movimento há mais tempo do que qualquer mortal consegue calcular.
+
+O problema não é que os sinais pararam. O problema é que os sinais **mudaram de natureza** — e os monges do Tempo, que passaram a vida inteira aprendendo a ler uma linguagem específica, descobrem que estão aprendendo a ler a mesma linguagem em modo que nunca viram.
+
+Nenhuma dessas interpretações consola. Nenhuma oferece instruções claras.
+
+Mas todas apontam para o mesmo lugar: algo que ainda não chegou, que Chronar já vê, e que é grande o suficiente para mudar a qualidade do que ela deixa para trás quando passa pelos templos.
 
 ---
 

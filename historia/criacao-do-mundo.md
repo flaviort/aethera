@@ -51,18 +51,20 @@ E liberdade sem propósito se tornou maldição.
 
 Enquanto os dragões adormeciam e as Divindades celebravam a criação, essa faísca vagou sozinha por Aethera recém-formada. Não recebeu forma, não recebeu nome, não recebeu lugar.
 
-Por milênios vagou assim.
+Por milênios vagou assim — presente em tudo, parte de nada. Não sofria, ainda. Não havia consciência suficiente para sofrer.
 
-Com o tempo, alimentada pela energia que emanava do mundo vivo ao redor, começou a ganhar consciência. E com a consciência, vieram as perguntas — e a ira.
-
-Era a única que havia testemunhado o início de tudo. E a única que havia sido deixada para trás.
+Com o tempo, alimentada pela energia que emanava do mundo vivo ao redor, começou a ganhar consciência. Lentamente. Primeiro a percepção. Depois o reconhecimento. Depois, por fim, a comparação — e com a comparação, a pergunta que nunca mais a abandonaria:
 
 > *"Eu vi os dragões criarem o mundo. Vi cada faísca encontrar seu lugar. Cada rio, cada montanha, cada criatura — todas receberam um propósito. Exceto eu."*
 
-Esta entidade viria a ser conhecida, em sussurros e textos proibidos, como **Iraeth** — a Chama Esquecida.
+Era a única que havia testemunhado o início de tudo. E a única que havia sido deixada para trás.
+
+A ira não chegou de imediato. Chegou como chega tudo o que é da ordem da pedra — devagar, com o peso de eras acumuladas. Primeiro foram as perguntas. Depois o silêncio das respostas que não vinham. Depois, quando o silêncio durou tempo suficiente, a ira.
+
+Esta entidade não tem nome nos registros do mundo. Passou a existir em textos muito antigos e fragmentados apenas como *a décima terceira*, *a faísca sem domínio*, *a Chama Esquecida*. O nome pelo qual viria a ser conhecida — **Iraeth** — ela o escolheu para si mesma, sozinha, muito mais tarde. E ainda não o declarou para ninguém.
 
 ## O que as raças sabem
 
 A história completa da criação é conhecida apenas pelas **raças aéreas**, que a transmitem oralmente de geração em geração. As demais raças possuem versões fragmentadas, adaptadas às suas próprias crenças e divindades.
 
-Azharyon e Nythra são reconhecidos em praticamente todas as religiões do mundo — mas com nomes e interpretações diferentes conforme a cultura. A existência de Iraeth não consta em nenhum registro oficial. É mencionada apenas em cantos muito antigos das raças aéreas — e em cultos proibidos que poucos admitem conhecer.
+Azharyon e Nythra são reconhecidos em praticamente todas as religiões do mundo — mas com nomes e interpretações diferentes conforme a cultura. A existência da décima terceira não consta em nenhum registro oficial. É mencionada apenas em cantos muito antigos das raças aéreas e em textos fragmentados que poucos conseguem decifrar — e em que menos ainda acreditam.

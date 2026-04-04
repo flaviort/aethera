@@ -44,7 +44,7 @@ São faíscas menores, mas igualmente reais. Seus domínios costumam ser locais 
 
 ### Entidades Primordiais
 
-Existem também seres antigos que não se encaixam perfeitamente como divindades. Algumas dessas entidades voltaram a se manifestar com mais intensidade desde o Eclipse Cósmico.
+Existem também seres antigos que não se encaixam perfeitamente como divindades. Algumas dessas entidades começaram a se manifestar com mais intensidade conforme o equilíbrio do mundo enfraquece.
 
 ## As 12 Divindades Primordiais
 
@@ -104,12 +104,14 @@ Isso fez surgir, ao longo dos milênios:
 - Não existem divindades boas ou más em essência; existem propósitos distintos.
 - As raças aéreas preservam parte do entendimento mais completo sobre a ordem divina.
 - O número exato de divindades menores é desconhecido.
-- O Eclipse Cósmico intensificou presságios, silêncios e sinais em vários templos.
-- Os templos de Chronar em especial são vistos com temor desde os eventos mais recentes.
+- Presságios, silêncios e sinais em vários templos mudaram de tom nas últimas décadas — sem explicação clara.
+- Os templos de Chronar em especial são vistos com temor: os sinais que chegam não soam mais informativos, mas como luto por algo que ainda está por vir.
 
 ## Iraeth, A 13ª
 
-Iraeth não é reconhecida por instituições religiosas legítimas, mas continua sendo venerada por cultos secretos, especialmente entre os que se sentem esquecidos, abandonados ou traídos pelo destino.
+Iraeth não é reconhecida por nenhuma instituição religiosa — na verdade, quase ninguém sabe que ela existe. Seu nome não aparece em nenhum texto oficial. Apenas fragmentos muito antigos e obscuros, estudados por pouquíssimos acadêmicos, a mencionam — e geralmente em linguagem que poucos conseguem decifrar.
+
+O que o mundo percebe são os efeitos: Fissuras, distorções, criaturas extintas que retornam. Mas ninguém ainda conectou esses fenômenos a uma causa comum. Ainda.
 
 Mais detalhes em:
 

@@ -32,7 +32,7 @@ Isso torna o confronto final algo muito mais complexo do que uma batalha entre b
 
 O Evangelho das Cinzas não menciona os heróis diretamente. Não diz como Iraeth será "apaziguada". Não diz se ela sobrevive. Não diz se o mundo sobrevive.
 
-Versões corrompidas do texto — usadas pelos cultos de Iraeth — omitem os últimos versos e apresentam a profecia como uma promessa de libertação, não de destruição.
+Versões corrompidas do texto — encontradas em círculos muito restritos que estudam esses fragmentos clandestinamente — omitem os últimos versos e apresentam a profecia como uma promessa de renovação, não de destruição.
 
 ## A palavra "apaziguada"
 
@@ -46,10 +46,10 @@ A ambiguidade é intencional. O destino de Iraeth não está escrito — está e
 
 ## Progressão da revelação no jogo
 
-| Ato | O que os heróis descobrem |
-|-----|--------------------------|
-| Ato I | Primeiro fragmento — sem contexto, parece apenas um canto antigo |
-| Ato II | Mais fragmentos; percebem que falam de uma ameaça real por trás do Eclipse |
-| Ato II (fim) | A existência de Iraeth começa a se revelar |
-| Ato III | O Evangelho quase completo — e a ambiguidade da palavra "apaziguada" |
-| Ato III (fim) | Os heróis e Iraeth chegam ao confronto — e à escolha que a profecia não resolve |
+| Momento | O que os heróis descobrem |
+|---------|--------------------------|
+| **Ato I** | Primeiro fragmento — sem contexto, parece apenas um canto antigo das raças aéreas |
+| **Ato I (fim)** | Mais fragmentos; percebem que podem estar conectados às Fissuras e às distorções |
+| **Ponto de virada** | O Selo rompe. O mundo ouve um nome pela primeira vez: Iraeth |
+| **Ato II** | O Evangelho quase completo — e a ambiguidade da palavra "apaziguada" |
+| **Ato II (fim)** | Os heróis e Iraeth chegam ao confronto — e à escolha que a profecia não resolve |

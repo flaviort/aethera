@@ -57,12 +57,11 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 ## O antagonista — Iraeth
 
 - A 13ª faísca, nascida da mesma dança, mas sem domínio ou propósito
-- Vagou por milênios até ganhar consciência e ira
-- Criou sua própria prole de demônios
-- Orquestrou o **Eclipse Cósmico** — evento que rompeu as barreiras entre planos
-- Ao descobrir o **Evangelho das Cinzas**, hesitou pela primeira vez
-- Sua motivação não é ódio — é o desejo de ter um nome, de existir de forma significativa
-- Cultos proibidos a veneram em segredo por todo Aethera
+- Vagou por milênios até ganhar consciência — e depois foi aprisionada preventivamente pelo **Grande Selamento**
+- Permanece selada até hoje; sua ira acumulada começa a vazar pelo Selo como Fissuras e distorções
+- Quando o Selo romper — no ponto central do jogo — emergirá com um nome que ninguém ainda conhece
+- Sua motivação não é ódio — é o desejo de existir de forma significativa, de ter um lugar no mundo que a ignorou
+- Quase ninguém sabe que ela existe; apenas textos muito antigos e fragmentados a mencionam
 
 ### O Evangelho das Cinzas
 
@@ -96,7 +95,7 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 | Chronar | Tempo | Monges, Aéreos |
 
 As divindades não aparecem mais diretamente — viraram religiões, igrejas, ordens e guerras.
-**Iraeth** é a 13ª, proibida, venerada apenas em cultos secretos.
+**Iraeth** é a 13ª — sua existência é quase completamente desconhecida. Apenas fragmentos obscuros em textos antigos a mencionam, e poucos ainda os levam a sério.
 
 ---
 
@@ -148,8 +147,7 @@ gdd/
 ├── README.md                   ← este arquivo
 ├── historia/
 │   ├── criacao-do-mundo.md     ← Azharyon, Nythra, a dança, as faíscas
-│   ├── conflito-central.md     ← o Eclipse Cósmico, as Fissuras
-│   ├── iraeth.md               ← a 13ª faísca, o antagonista
+│   ├── conflito-central.md     ← o estado atual, a Ordem da Chama Velha, o Selo
 │   └── profecia.md             ← o Evangelho das Cinzas
 ├── mundo/
 │   ├── visao-geral.md          ← estrutura do mundo, geografia
@@ -157,7 +155,7 @@ gdd/
 ├── divindades/
 │   ├── divindades.md           ← visão geral das entidades divinas
 │   ├── dragoes-primordiais/    ← Azharyon e Nythra
-│   ├── grandes-faiscas/        ← as 12 Primordiais e Iraeth
+│   ├── grandes-faiscas/        ← as 12 Primordiais e Iraeth (iraeth/iraeth.md — documento principal)
 │   ├── divindades-menores/     ← deuses locais e centelhas
 │   └── espiritos-e-entidades/  ← guardiões, espíritos e presenças locais
 ├── racas/

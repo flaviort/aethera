@@ -1,55 +1,76 @@
 # O Conflito Central
 
-## O Eclipse Cósmico
+## O Mundo Atual — O que Está Errado
 
-O mundo vivia em um equilíbrio imperfeito — guerras, conflitos e tensões sempre existiram entre as raças, mas todas compartilhavam o mesmo plano de existência, sustentadas pela ordem que os Ancestrais deixaram ao adormecer.
+O mundo vive um equilíbrio imperfeito. Guerras, conflitos e tensões sempre existiram entre as raças — mas havia, pelo menos, uma constância no tecido da realidade. O chão permanecia onde devia estar. O tempo corria numa direção. Os mortos ficavam mortos.
 
-Então o Eclipse Cósmico aconteceu.
+Isso está mudando.
 
-O céu escureceu por dias. As estrelas mudaram de posição. Em templos de todo o mundo, os sinais das Divindades — sonhos, presságios, as pequenas vozes que guiavam seus fiéis — silenciaram de uma vez. Não houve resposta. Não houve sinal. Apenas o silêncio onde antes havia, ao menos, um sussurro.
+Nas últimas décadas, algo começou a acontecer no mundo. Não de forma dramática — não ainda. Mas perceptível para quem sabe onde olhar:
 
-Era como se algo tivesse quebrado nas fundações mais profundas do mundo — algo que não se movia em milênios.
+- **Fissuras** aparecem em pontos aleatórios — rachaduras na realidade visível, de onde emanam luz e sons impossíveis
+- **Criaturas extintas** reaparecem em florestas e pântanos — seres que existiam apenas em contos antigos, extintos há milênios, sem nenhuma explicação
+- **Distorções temporais** atingem certos lugares — onde passado e futuro se sobrepõem por instantes, deixando aqueles que testemunham sem palavras para descrever o que viram
+- **Os presságios mudaram** — em templos de Chronar especialmente, os sinais que os monges recebem há séculos de forma consistente começaram a chegar diferentes: não informativos, mas emocionais. Como luto por algo que ainda está por vir
 
-As barreiras entre planos de existência começaram a se fragmentar.
+Ninguém sabe a causa. Estudiosos propõem teorias. Sacerdotes culpam heréticos. Reis culpam reinos vizinhos.
 
-## O que o Eclipse trouxe
+A verdade permanece selada — literalmente.
 
-Com as barreiras rompidas, o mundo passou a receber invasores de outros planos:
+---
 
-- **Demônios interdimensionais** — criaturas de planos que nunca deveriam ter contato com o mundo mortal
-- **Criaturas extintas** — seres que existiam apenas em contos antigos, extintos há milênios, retornando de onde haviam sido banidos
-- **Seres celestiais primordiais** — entidades da era da criação, algumas benevolentes, outras incompreensíveis ou hostis
+## O Conflito Visível — A Ordem da Chama Velha
 
-As rupturas ocorrem em pontos aleatórios do mundo. Cada ruptura é chamada de **Fissura** — uma ferida na realidade visível a olho nu, de onde emanam luz e sons impossíveis.
+O que os heróis encontram no início do jogo não é a causa raiz, mas um conflito que emerge dela sem que ninguém ao redor perceba a conexão.
 
-Se as Fissuras continuarem se multiplicando, a separação entre os planos pode se tornar permanentemente irreversível. O mundo como existe deixaria de existir.
+**A Ordem da Chama Velha** é uma facção que cresceu nos últimos séculos, originalmente um movimento de preservação religiosa — sacerdotes e estudiosos que acreditavam que o mundo havia se afastado dos princípios sagrados deixados pela criação original. Sua fundação era nobre: retornar às fontes.
 
-## A verdade por trás do Eclipse
+Mas fragmentos do **Evangelho das Cinzas** chegaram às suas mãos.
 
-O Eclipse não foi um acidente.
+Mal compreendidos — como quase tudo que toca aquele texto — os fragmentos foram interpretados como uma revelação sagrada: havia **pontos no mundo** onde a energia primordial da criação ainda ardia em seu estado puro, "a Chama Velha anterior a toda forma." Esses pontos precisavam ser "purificados" — os estratos históricos de crenças posteriores que os cobriam, removidos. Assim, a criação poderia ser renovada.
 
-A **Faísca Esquecida**, após milênios acumulando poder e ira, encontrou uma forma de forçar as barreiras da realidade — usando a própria energia da criação que ela carregava desde o início, aquela que os Ancestrais nunca lhe deram propósito.
+Esses pontos são, na verdade, as **âncoras do Selo** — os nós de realidade construídos pelos Filhos do Eco para manter a décima terceira aprisionada. A "Chama Velha" que a Ordem detecta é a energia do próprio Selo, rangendo sob a pressão crescente de dentro.
 
-Sua motivação exata ainda não está clara para ninguém no mundo. Mas o rastro de destruição que sua prole deixa aponta para uma força que quer consumir, não conquistar.
+Cada ritual de "purificação" enfraquece uma âncora. Cada local sagrado que destroem acelera o colapso do Selo. Cada Fissura que aparece nas semanas seguintes a um ritual não é coincidência — é consequência.
 
-> *Esta verdade não deve ser revelada ao jogador cedo. O Eclipse deve parecer, inicialmente, um fenômeno natural ou obra de alguma força menor.*
+**Eles não sabem o que estão fazendo.** Acreditam genuinamente estar servindo à criação. E é isso que torna o conflito do Ato I tão complexo — os heróis não enfrentam um inimigo que quer destruir o mundo. Enfrentam pessoas que querem salvá-lo, e estão destruindo-o no processo.
 
-## A prole da Faísca
+> *"Estão apagando o incêndio com combustível. E a faísca que alimenta esse fogo não viu o sol em milênios."*
 
-Ao longo dos milênios de solidão, a Faísca criou seus próprios seres — demônios forjados de sua própria luz corrompida. Diferente das criaturas criadas pelos Ancestrais, esses seres não têm propósito de criar: apenas consumir.
+---
 
-Eles foram os primeiros a cruzar as Fissuras. São a vanguarda visível do que está por vir.
+## A Causa Invisível — O Selo que Range
 
-## Consequências imediatas no mundo
+Por baixo de tudo — das Fissuras, das criaturas extintas, das distorções e dos rituais da Ordem — há algo que ninguém no mundo ainda conseguiu nomear com clareza:
 
-Cada bioma é afetado de forma diferente pelas Fissuras:
+**O Selo está enfraquecendo.**
 
-| Bioma | Consequência |
-|-------|-------------|
-| Campos / reinos humanos | Ataques de demônios, caos político |
-| Florestas | Criaturas corrompidas, a floresta adoece |
-| Pântanos | As aparições ficam mais violentas e numerosas |
-| Montanhas | Os espíritos das pedras ficam agitados e silenciosos |
-| Subterrâneo | Fissuras abrem direto nas cidades subterrâneas |
-| Mares | Criaturas profundas sobem à superfície |
-| Ilhas flutuantes | As raças aéreas observam tudo em silêncio perturbado |
+Não apenas pelos rituais. A ira acumulada em milênios de prisão pressiona de dentro. Cada distorção temporal é um sonho que escoa para fora do espaço-entre. Cada criatura extinta que retorna é um eco de eras que apenas ela ainda recorda. O Selo foi construído para durar — mas nunca foi pensado para durar para sempre.
+
+A causa e o efeito se retroalimentam: quanto mais o Selo fraqueja, mais a ira dentro cresce. Quanto mais a ira cresce, mais o Selo fraqueja.
+
+---
+
+## O que Está por Vir — O Ponto de Virada
+
+O Evangelho das Cinzas chama de **Eclipse Cósmico** o momento em que o Selo finalmente romper.
+
+Quando isso acontecer — e o jogo trata isso não como "se", mas como "quando" — a décima terceira emergirá para o mundo pela primeira vez desde o Grande Selamento. Com uma voz. Com um nome. Com milênios de perguntas sem resposta.
+
+O que acontecerá então é o que o Ato II do jogo explora.
+
+### Consequências esperadas do rompimento
+
+| Fenômeno | Descrição |
+|----------|-----------|
+| **Fissuras** | Multiplicação acelerada — onde antes havia uma, haverá centenas |
+| **Criaturas extintas** | Retorno em massa de seres da era pré-selamento |
+| **Distorção dos planos** | Fronteiras entre o plano material e os demais se tornam instáveis |
+| **Silêncio divino** | A ruptura afeta a capacidade das divindades de se comunicar com o mundo |
+| **O nome** | Pela primeira vez, o mundo ouvirá um nome que nenhum texto oficial jamais registrou |
+
+---
+
+## Estrutura Narrativa
+
+> *Nota de design: O Ato I trata dos sintomas — Fissuras, Ordem da Chama Velha, criaturas extintas — sem revelar a causa. A descoberta do Selo e de quem está aprisionado nele é o ponto de virada que divide os dois atos. No Ato II, os heróis lidam com as consequências do rompimento e com algo muito mais difícil do que um inimigo: uma pergunta.*
