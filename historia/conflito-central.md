@@ -2,11 +2,13 @@
 
 ## O Eclipse Cósmico
 
-O mundo vivia em um equilíbrio imperfeito — guerras, conflitos e tensões sempre existiram entre as raças, mas todas compartilhavam o mesmo plano de existência, sob a proteção silenciosa das 12 Divindades.
+O mundo vivia em um equilíbrio imperfeito — guerras, conflitos e tensões sempre existiram entre as raças, mas todas compartilhavam o mesmo plano de existência, sustentadas pela ordem que os Ancestrais deixaram ao adormecer.
 
 Então o Eclipse Cósmico aconteceu.
 
-O céu escureceu por dias. As estrelas mudaram de posição. As 12 Divindades, espalhadas por seus domínios, sentiram algo se romper nas fundações do mundo — algo que não havia se movido em milênios.
+O céu escureceu por dias. As estrelas mudaram de posição. Em templos de todo o mundo, os sinais das Divindades — sonhos, presságios, as pequenas vozes que guiavam seus fiéis — silenciaram de uma vez. Não houve resposta. Não houve sinal. Apenas o silêncio onde antes havia, ao menos, um sussurro.
+
+Era como se algo tivesse quebrado nas fundações mais profundas do mundo — algo que não se movia em milênios.
 
 As barreiras entre planos de existência começaram a se fragmentar.
 

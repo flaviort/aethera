@@ -23,7 +23,7 @@
 
 Cada raça possui afinidade natural com determinados elementos e tende a venerar divindades correspondentes. Isso influencia as classes disponíveis, as magias acessíveis e a cultura de cada povo.
 
-> *Ver: divindades/as-12-divindades.md para detalhes sobre cada divindade.*
+> *Ver: divindades/divindades.md para detalhes sobre cada divindade.*
 
 ## O impacto do Eclipse Cósmico
 

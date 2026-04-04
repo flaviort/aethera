@@ -19,9 +19,11 @@ O atrito entre seus corpos colossal gerava faíscas de luz pura, e cada faísca 
 - Faíscas de Azharyon tornavam-se matéria — terras, pedras, mares, fogo
 - Faíscas de Nythra tornavam-se espírito — ventos, sonhos, correntes invisíveis
 - Faíscas fundidas dos dois tornavam-se vida — as raças, as criaturas, as florestas
-- As **12 maiores faíscas** tornaram-se as **Divindades Primordiais** — os arquitetos do mundo
+- As **12 maiores faíscas** tornaram-se as **Divindades Primordiais** — encarregadas de dar continuidade à criação em escala universal
+- Faíscas de tamanho intermediário tornaram-se **Divindades Menores** — espíritos, guardiões, deuses locais que habitam o mundo entre as coisas, nos cantos que os grandes deuses não nomearam
+- Uma dessas faíscas maiores era tão densa que se partiu em dois no momento do toque — e formou **Gaiax e Montar**, as Irmãs de Pedra, inseparáveis na origem e distintas no propósito
 
-Das centelhas menores, ao longo de eras incalculáveis, surgiram as raças — cada uma moldada por um tipo diferente de luz.
+Das centelhas menores ainda, ao longo de eras incalculáveis, surgiram as raças — cada uma moldada por um tipo diferente de luz.
 
 ## O Grande Sono
 
@@ -33,7 +35,11 @@ Após eras de dança, Azharyon e Nythra desaceleraram. Seus corpos, exauridos pe
 - Os ventos que nunca param são seu último hálito
 - Os sonhos que visitam os mortais são seus sussurros adormecidos
 
-Ao adormecerem, as 12 Divindades assumiram a responsabilidade de manter o equilíbrio do que havia sido criado.
+Ao adormecerem os Ancestrais, coube às Divindades dar continuidade ao que havia sido iniciado. Não para preservar o que existia — mas para que a criação seguisse adiante.
+
+Culturas, povos, regiões, mapas que mudam com as guerras, o fluxo do tempo, os conflitos que moldam as civilizações: tudo isso é criação em movimento. E é esse movimento que as Divindades carregam, cada uma à sua maneira.
+
+Não existem Divindades boas ou más — existem Divindades com propósitos distintos. Algumas encarregadas de criar, outras de destruir. A morte é tão necessária quanto o nascimento. A guerra, tanto quanto a paz. O domínio de cada Divindade não define sua moral — define seu fardo. E cada uma o carrega sem escolha, pois foi para isso que a faísca as formou.
 
 ## A 13ª Faísca
 
