@@ -198,7 +198,7 @@ O que isso significa, nenhum visitante ainda conseguiu extrair deles.
 | **Elfos / Sylvanos** | Parentes distantes da natureza espiritual, porém incompreensíveis |
 | **Orcs** | Fantasmas nos picos — irrelevantes para a vida cotidiana, temidos intuitivamente |
 | **Nerathi** | Praticamente desconhecidos — mundos diferentes demais |
-| **Subterrâneos** | Rumores e lendas — poucos chegaram a ver um Aetheri de perto |
+| **Umbrynn** | Rumores e lendas — poucos chegaram a ver um Aetheri de perto |
 
 ---
 

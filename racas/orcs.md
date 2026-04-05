@@ -39,7 +39,7 @@ Dificilmente um orc venerará as divindades de Justiça, Amor ou Luz.
 - Sociedade baseada em clãs, com chefes guerreiros no topo
 - Tradição oral forte — histórias de batalhas e conquistas passadas de geração em geração
 - Pouco interesse em comércio ou diplomacia com outras raças
-- Alguns clãs desenvolveram alianças com raças subterrâneas
+- Alguns clãs desenvolveram alianças com Umbrynn
 
 ## Impacto do Eclipse Cósmico
 

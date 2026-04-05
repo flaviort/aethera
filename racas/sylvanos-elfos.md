@@ -13,7 +13,7 @@ Guardiões das vastas florestas, os sylvanos e elfos vivem em simbiose com o eco
 
 - **Elfos da floresta** — os mais comuns, conectados à natureza e à magia natural
 - **Sylvanos** — seres mais antigos, com traços mais próximos das plantas e da floresta em si
-- **Elfos noturnos** — vivem nas partes mais sombrias das florestas, com afinidade pela magia das trevas. Fazem fronteira cultural com as raças subterrâneas
+- **Elfos noturnos** — vivem nas partes mais sombrias das florestas, com afinidade pela magia das trevas. Fazem fronteira cultural com as Umbrynn
 
 ## Criaturas que coexistem com eles
 

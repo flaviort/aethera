@@ -36,7 +36,7 @@ Consideradas caóticas e perigosas pela maioria do mundo, as raças dos pântano
 
 - Sem uma cultura unificada — cada subgrupo tem suas próprias tradições
 - Goblins são caóticos e tribais; bruxas são solitárias ou em covens; mortos-vivos variam enormemente
-- Alianças com raças subterrâneas são comuns — especialmente elfos negros e raças dos pântanos trocam conhecimento arcano
+- Alianças com Umbrynn são comuns — especialmente elfos negros e raças dos pântanos trocam conhecimento arcano
 - A reputação de "malvados" é uma generalização — existem comunidades estáveis e indivíduos com moral própria
 
 ## Exceções notáveis

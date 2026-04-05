@@ -56,11 +56,11 @@ Existem também seres antigos que não se encaixam perfeitamente como divindades
 | **Montar** | Montanhas | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |
 | **Sylvael** | Florestas | Elfos e Sylvanos | `divindades/grandes-faiscas/sylvael/sylvael.md` |
 | **Lumien** | Luz | Humanos e Aetheri | `divindades/grandes-faiscas/lumien/lumien.md` |
-| **Noctra** | Trevas | Povos subterrâneos e ordens ocultas | `divindades/grandes-faiscas/noctra/noctra.md` |
+| **Noctra** | Trevas | Umbrynn e ordens ocultas | `divindades/grandes-faiscas/noctra/noctra.md` |
 | **Aeris** | Ventos | Aetheri | `divindades/grandes-faiscas/aeris/aeris.md` |
-| **Tempyr** | Tempestades | Povos aéreos e marinhos | `divindades/grandes-faiscas/tempyr/tempyr.md` |
+| **Tempyr** | Tempestades | Aetheri e Nerathi | `divindades/grandes-faiscas/tempyr/tempyr.md` |
 | **Nymara** | Vida | Elfos e Humanos | `divindades/grandes-faiscas/nymara/nymara.md` |
-| **Morveth** | Morte | Povos dos pântanos e subterrâneos | `divindades/grandes-faiscas/morveth/morveth.md` |
+| **Morveth** | Morte | Povos dos pântanos e Umbrynn | `divindades/grandes-faiscas/morveth/morveth.md` |
 | **Chronar** | Tempo | Monges, cronistas e Aetheri | `divindades/grandes-faiscas/chronar/chronar.md` |
 
 ## Caso Especial: Gaiax E Montar
@@ -92,7 +92,7 @@ Isso fez surgir, ao longo dos milênios:
 | Império Orc | Vulkar / Morveth | Rituais de guerra, forja e morte |
 | Reinos Anões | Gaiax / Montar | Culto unificado de **Duath Eron** |
 | Florestas Élficas | Sylvael / Nymara | Cultos da natureza e da vida |
-| Cidades Subterrâneas | Noctra | Ordens arcanas e segredos antigos |
+| Cidades Umbrynn | Noctra | Ordens arcanas e segredos antigos |
 | Ilhas Flutuantes | Aeris / Chronar | Povos mais próximos da cosmogonia original |
 | Oceanos | Thalor | Templos submersos e ritos marítimos |
 | Pântanos | Morveth | Cultos funerários e espíritos antigos |

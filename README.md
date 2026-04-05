@@ -87,11 +87,11 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 | Montar | Montanhas | Anões |
 | Sylvael | Florestas | Elfos, Sylvanos |
 | Lumien | Luz | Humanos, Aetheri |
-| Noctra | Trevas | Subterrâneos |
+| Noctra | Trevas | Umbrynn |
 | Aeris | Ventos | Aetheri |
 | Tempyr | Tempestades | Aetheri, Marinhos |
 | Nymara | Vida | Elfos, Humanos |
-| Morveth | Morte | Pântanos, Subterrâneos |
+| Morveth | Morte | Pântanos, Umbrynn |
 | Chronar | Tempo | Monges, Aetheri |
 
 As divindades não aparecem mais diretamente — viraram religiões, igrejas, ordens e guerras.
@@ -124,7 +124,7 @@ As divindades não aparecem mais diretamente — viraram religiões, igrejas, or
 | Sylvanos / Elfos | Florestas | Guardiões da natureza |
 | Nerathi | Mares | Civilizações submersas |
 | Aetheri | Picos de montanha / As Agulhas de Aethera | Os mais antigos, guardiões da memória da criação |
-| Raças subterrâneas | Mundo subterrâneo | Artes arcanas das trevas |
+| Umbrynn | Mundo subterrâneo | Artes arcanas das trevas |
 | Raças dos pântanos | Pântanos | Caóticas, espíritos de guerras antigas |
 
 ---
@@ -167,7 +167,7 @@ gdd/
 │   ├── sylvanos-elfos.md
 │   ├── nerathi.md
 │   ├── aetheri.md
-│   ├── racas-subterraneas.md
+│   ├── umbrynn.md
 │   └── racas-dos-pantanos.md
 ├── herois/
 │   └── grupo-de-aventureiros.md

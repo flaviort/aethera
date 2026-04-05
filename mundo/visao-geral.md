@@ -16,7 +16,7 @@
 | Sylvanos / Elfos | Florestas | Bordas de floresta |
 | Nerathi | Mares e oceanos | — |
 | Aetheri | Picos de montanha / As Agulhas de Aethera | — |
-| Raças subterrâneas | Mundo subterrâneo | Cavernas, pântanos |
+| Umbrynn | Mundo subterrâneo | Cavernas, pântanos |
 | Raças dos pântanos | Pântanos | Cavernas, bordas sombrias |
 
 ## Afinidades elementais por raça
