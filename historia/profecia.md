@@ -14,7 +14,7 @@
 
 ## Sobre o texto
 
-O Evangelho das Cinzas não é um texto de um único autor nem de uma única época. É uma compilação de fragmentos — cantos das raças aéreas, inscrições em ruínas pré-históricas, visões registradas por monges de Chronar — que foram reunidos e interpretados ao longo de milênios.
+O Evangelho das Cinzas não é um texto de um único autor nem de uma única época. É uma compilação de fragmentos — cantos das Aetheri, inscrições em ruínas pré-históricas, visões registradas por monges de Chronar — que foram reunidos e interpretados ao longo de milênios.
 
 Nenhuma versão completa existe em lugar algum. O que se conhece são pedaços, cada um em idiomas diferentes, alguns em línguas que precedem todas as línguas conhecidas de Aethera.
 
@@ -36,7 +36,7 @@ Versões corrompidas do texto — encontradas em círculos muito restritos que e
 
 ## A palavra "apaziguada"
 
-Estudiosos divergem sobre a tradução. O termo original — em idioma das raças aéreas — pode significar:
+Estudiosos divergem sobre a tradução. O termo original — em idioma das Aetheri — pode significar:
 
 - **Apaziguada** — silenciada, contida
 - **Saciada** — aquela que finalmente encontrou o que buscava
@@ -48,7 +48,7 @@ A ambiguidade é intencional. O destino de Iraeth não está escrito — está e
 
 | Momento | O que os heróis descobrem |
 |---------|--------------------------|
-| **Ato I** | Primeiro fragmento — sem contexto, parece apenas um canto antigo das raças aéreas |
+| **Ato I** | Primeiro fragmento — sem contexto, parece apenas um canto antigo das Aetheri |
 | **Ato I (fim)** | Mais fragmentos; percebem que podem estar conectados às Fissuras e às distorções |
 | **Ponto de virada** | O Selo rompe. O mundo ouve um nome pela primeira vez: Iraeth |
 | **Ato II** | O Evangelho quase completo — e a ambiguidade da palavra "apaziguada" |

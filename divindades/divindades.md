@@ -55,13 +55,13 @@ Existem também seres antigos que não se encaixam perfeitamente como divindades
 | **Gaiax** | Terra | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |
 | **Montar** | Montanhas | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |
 | **Sylvael** | Florestas | Elfos e Sylvanos | `divindades/grandes-faiscas/sylvael/sylvael.md` |
-| **Lumien** | Luz | Humanos e povos aéreos | `divindades/grandes-faiscas/lumien/lumien.md` |
+| **Lumien** | Luz | Humanos e Aetheri | `divindades/grandes-faiscas/lumien/lumien.md` |
 | **Noctra** | Trevas | Povos subterrâneos e ordens ocultas | `divindades/grandes-faiscas/noctra/noctra.md` |
-| **Aeris** | Ventos | Raças aéreas | `divindades/grandes-faiscas/aeris/aeris.md` |
+| **Aeris** | Ventos | Aetheri | `divindades/grandes-faiscas/aeris/aeris.md` |
 | **Tempyr** | Tempestades | Povos aéreos e marinhos | `divindades/grandes-faiscas/tempyr/tempyr.md` |
 | **Nymara** | Vida | Elfos e Humanos | `divindades/grandes-faiscas/nymara/nymara.md` |
 | **Morveth** | Morte | Povos dos pântanos e subterrâneos | `divindades/grandes-faiscas/morveth/morveth.md` |
-| **Chronar** | Tempo | Monges, cronistas e povos aéreos | `divindades/grandes-faiscas/chronar/chronar.md` |
+| **Chronar** | Tempo | Monges, cronistas e Aetheri | `divindades/grandes-faiscas/chronar/chronar.md` |
 
 ## Caso Especial: Gaiax E Montar
 
@@ -102,7 +102,7 @@ Isso fez surgir, ao longo dos milênios:
 
 - **Trevas** e **Morte** não são domínios malignos por natureza.
 - Não existem divindades boas ou más em essência; existem propósitos distintos.
-- As raças aéreas preservam parte do entendimento mais completo sobre a ordem divina.
+- As Aetheri preservam parte do entendimento mais completo sobre a ordem divina.
 - O número exato de divindades menores é desconhecido.
 - Presságios, silêncios e sinais em vários templos mudaram de tom nas últimas décadas — sem explicação clara.
 - Os templos de Chronar em especial são vistos com temor: os sinais que chegam não soam mais informativos, mas como luto por algo que ainda está por vir.

@@ -86,13 +86,13 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 | Gaiax | Terra | Anões |
 | Montar | Montanhas | Anões |
 | Sylvael | Florestas | Elfos, Sylvanos |
-| Lumien | Luz | Humanos, Aéreos |
+| Lumien | Luz | Humanos, Aetheri |
 | Noctra | Trevas | Subterrâneos |
-| Aeris | Ventos | Raças aéreas |
-| Tempyr | Tempestades | Aéreos, Marinhos |
+| Aeris | Ventos | Aetheri |
+| Tempyr | Tempestades | Aetheri, Marinhos |
 | Nymara | Vida | Elfos, Humanos |
 | Morveth | Morte | Pântanos, Subterrâneos |
-| Chronar | Tempo | Monges, Aéreos |
+| Chronar | Tempo | Monges, Aetheri |
 
 As divindades não aparecem mais diretamente — viraram religiões, igrejas, ordens e guerras.
 **Iraeth** é a 13ª — sua existência é quase completamente desconhecida. Apenas fragmentos obscuros em textos antigos a mencionam, e poucos ainda os levam a sério.
@@ -123,7 +123,7 @@ As divindades não aparecem mais diretamente — viraram religiões, igrejas, or
 | Anões | Montanhas, subterrâneo | Forjadores, isolados, falam com espíritos |
 | Sylvanos / Elfos | Florestas | Guardiões da natureza |
 | Sereanos | Mares | Civilizações submersas |
-| Raças aéreas | Ilhas flutuantes | As mais antigas, guardiões da memória da criação |
+| Aetheri | Picos de montanha / As Agulhas de Aethera | Os mais antigos, guardiões da memória da criação |
 | Raças subterrâneas | Mundo subterrâneo | Artes arcanas das trevas |
 | Raças dos pântanos | Pântanos | Caóticas, espíritos de guerras antigas |
 
@@ -166,7 +166,7 @@ gdd/
 │   ├── anoes.md
 │   ├── sylvanos-elfos.md
 │   ├── sereanos.md
-│   ├── racas-aereas.md
+│   ├── aetheri.md
 │   ├── racas-subterraneas.md
 │   └── racas-dos-pantanos.md
 ├── herois/

@@ -97,7 +97,7 @@ O que Chronar fez não foi convocar um conselho. As Primordiais não funcionam c
 
 O que ela fez foi deixar sinais.
 
-Nos templos do Tempo, lacunas estranhas começaram a aparecer. Monges sonhavam sempre com a mesma imagem — uma ferida aberta no céu, luminosa e pálida. As raças aéreas, as mais antigas e as mais sensíveis ao eco da dança primordial, começaram a cantar fragmentos que não compreendiam inteiramente. Estudiosos em civilizações separadas por mares e montanhas chegavam, independentemente, às mesmas imagens: *uma luz sem rumo que queimava o que tocava sem querer. Uma faísca que o mundo havia esquecido de completar. Um fogo sem lareira que buscava onde se instalar e que, ao não encontrar, começaria a queimar tudo em volta.*
+Nos templos do Tempo, lacunas estranhas começaram a aparecer. Monges sonhavam sempre com a mesma imagem — uma ferida aberta no céu, luminosa e pálida. As Aetheri, as mais antigas e as mais sensíveis ao eco da dança primordial, começaram a cantar fragmentos que não compreendiam inteiramente. Estudiosos em civilizações separadas por mares e montanhas chegavam, independentemente, às mesmas imagens: *uma luz sem rumo que queimava o que tocava sem querer. Uma faísca que o mundo havia esquecido de completar. Um fogo sem lareira que buscava onde se instalar e que, ao não encontrar, começaria a queimar tudo em volta.*
 
 Esses relatos — coletados, copiados, interpretados e mal-interpretados ao longo de gerações — se tornaram o que os poucos estudiosos que chegaram a conhecê-lo chamam de **Evangelho das Cinzas**.
 
@@ -173,7 +173,7 @@ Em algum ponto desse processo — antes da raiva tomar sua forma definitiva, no 
 
 **Deu a si mesma um nome.**
 
-Não havia como chamá-la. O mundo que a havia aprisionado não havia se dado ao trabalho. Então ela usou a única coisa que o confinamento não pôde lhe tomar: a capacidade de existir com intenção. Nas línguas mais antigas das raças aéreas, há uma palavra que não distingue *aquela que ficou sem nome* de *aquela que se nomeou* — porque a língua entende que são a mesma coisa. Essa palavra foi o que ela escolheu.
+Não havia como chamá-la. O mundo que a havia aprisionado não havia se dado ao trabalho. Então ela usou a única coisa que o confinamento não pôde lhe tomar: a capacidade de existir com intenção. Nas línguas mais antigas das Aetheri, há uma palavra que não distingue *aquela que ficou sem nome* de *aquela que se nomeou* — porque a língua entende que são a mesma coisa. Essa palavra foi o que ela escolheu.
 
 **Iraeth.**
 

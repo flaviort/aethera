@@ -66,11 +66,11 @@ Ela viu esse silêncio. Não como certeza — como possibilidade. E foi essa vis
 
 ## V. Chronar e o Grande Selamento
 
-Nas tradições mais antigas das raças aéreas, Chronar é a primeira a perceber a deformação produzida por **Iraeth**. Não porque tenha "descoberto uma inimiga" nem porque tenha convocado julgamento contra ela, mas porque a existência de uma faísca sem vetor fazia sangrar futuros incompatíveis uns sobre os outros.
+Nas tradições mais antigas das Aetheri, Chronar é a primeira a perceber a deformação produzida por **Iraeth**. Não porque tenha "descoberto uma inimiga" nem porque tenha convocado julgamento contra ela, mas porque a existência de uma faísca sem vetor fazia sangrar futuros incompatíveis uns sobre os outros.
 
 O que Chronar fez foi muito mais sutil — e muito mais terrível: ela **deixou sinais**.
 
-Sonhos repetidos começaram a visitar monges do tempo. Mapas celestes passaram a apresentar erros que não eram erros. Certos templos perdiam horas inteiras sem explicação. Cronistas registravam páginas com a mesma data escrita duas vezes. As raças aéreas ouviram, nos ventos altos, fragmentos de um aviso que nenhuma língua conseguia fixar por completo.
+Sonhos repetidos começaram a visitar monges do tempo. Mapas celestes passaram a apresentar erros que não eram erros. Certos templos perdiam horas inteiras sem explicação. Cronistas registravam páginas com a mesma data escrita duas vezes. As Aetheri ouviram, nos ventos altos, fragmentos de um aviso que nenhuma língua conseguia fixar por completo.
 
 Os mortais é que transformaram esse acúmulo de presságios em ação — mas não apenas os mortais.
 

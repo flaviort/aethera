@@ -65,6 +65,6 @@ Esta entidade não tem nome nos registros do mundo. Passou a existir em textos m
 
 ## O que as raças sabem
 
-A história completa da criação é conhecida apenas pelas **raças aéreas**, que a transmitem oralmente de geração em geração. As demais raças possuem versões fragmentadas, adaptadas às suas próprias crenças e divindades.
+A história completa da criação é conhecida apenas pelas **Aetheri**, que a transmitem oralmente de geração em geração. As demais raças possuem versões fragmentadas, adaptadas às suas próprias crenças e divindades.
 
-Azharyon e Nythra são reconhecidos em praticamente todas as religiões do mundo — mas com nomes e interpretações diferentes conforme a cultura. A existência da décima terceira não consta em nenhum registro oficial. É mencionada apenas em cantos muito antigos das raças aéreas e em textos fragmentados que poucos conseguem decifrar — e em que menos ainda acreditam.
+Azharyon e Nythra são reconhecidos em praticamente todas as religiões do mundo — mas com nomes e interpretações diferentes conforme a cultura. A existência da décima terceira não consta em nenhum registro oficial. É mencionada apenas em cantos muito antigos das Aetheri e em textos fragmentados que poucos conseguem decifrar — e em que menos ainda acreditam.

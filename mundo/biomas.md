@@ -62,21 +62,21 @@ Terras decaídas, úmidas e sombrias. Infestadas de espíritos de guerras antiga
 
 ## 7. Montanhas
 
-Picos imensos, passagens perigosas, templos de peregrinação. Lar dos anões nas profundezas e das raças aéreas nos cumes.
+Picos imensos, passagens perigosas, templos de peregrinação. Lar dos anões nas profundezas e dos Aetheri nos cumes mais altos — onde **As Agulhas de Aethera** perfuram o céu.
 
-- **Habitantes:** Anões (interior), raças aéreas (cumes e ilhas próximas), orcs (encostas)
-- **Características:** Espíritos das pedras, forjas profundas, templos de meditação
-- **Eclipse:** Os espíritos das montanhas ficam agitados e silenciosos; as forjas dos anões param
+- **Habitantes:** Anões (interior), Aetheri (cumes extremos — As Agulhas), orcs (encostas)
+- **Características:** Espíritos das pedras, forjas profundas, cidades Aetheri de pedra branca
+- **Fissuras:** Os espíritos das montanhas ficam agitados e silenciosos; as forjas dos anões param; os Skorreth de Duath Eron registram pressões anômalas na rocha
 
 ---
 
 ## 8. Ilhas Flutuantes
 
-Ilhas suspensas no céu por forças antigas que ninguém compreende completamente. Templos etéreos, jardins suspensos, acima dos conflitos do mundo.
+Ilhas suspensas no céu por forças antigas que ninguém compreende completamente. Abandonadas pelos Aetheri em eras passadas — hoje são territórios sem dono, procurados por exploradores, magos e cultos que buscam locais afastados dos reinos.
 
-- **Habitantes:** Raças aéreas — as mais antigas de todas
-- **Características:** Templos de peregrinação, ventos mágicos, vista do mundo inteiro
-- **Eclipse:** As raças aéreas observam as Fissuras de cima com crescente perturbação
+- **Habitantes:** Sem população permanente; visitantes ocasionais, acampamentos de pesquisadores
+- **Características:** Ruínas de antigas estruturas Aetheri, ventos mágicos imprevisíveis, vista do mundo inteiro
+- **Fissuras:** As ilhas mais próximas das Agulhas começam a derivar ligeiramente de suas posições históricas
 
 ---
 

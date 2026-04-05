@@ -2,7 +2,7 @@
 ## *A Décima Terceira Faísca — A Esquecida*
 
 > *"As doze maiores faíscas tocaram o vazio e souberam o que eram. A décima terceira tocou o mesmo vazio e ouviu apenas silêncio."*
-> — fragmento preservado pelas raças aéreas
+> — fragmento preservado pelas Aetheri
 
 ---
 
@@ -44,11 +44,11 @@ Ela não tinha rosto fixo. Mas havia algo que se repetia em todas as suas manife
 
 ## Fase 2 — O Grande Selamento *(o momento do aprisionamento)*
 
-O que poucos cantos das raças aéreas descrevem, convergindo num único detalhe impossível de ignorar, é que Iraeth — no momento do Selamento — pela primeira e única vez em sua existência, *parou de se mover*.
+O que poucos cantos das Aetheri descrevem, convergindo num único detalhe impossível de ignorar, é que Iraeth — no momento do Selamento — pela primeira e única vez em sua existência, *parou de se mover*.
 
 Não foi imobilidade imposta de fora. Foi algo que aconteceu antes. Como um coração que para antes do golpe chegar. Como se alguma parte dela, a parte mais antiga e mais honesta, soubesse o que estava acontecendo e decidisse receber em vez de fugir.
 
-Sua forma, naquele instante, cristalizou-se pela primeira vez. E o que emergiu não foi a centelha fluida e curiosa da era anterior — foi algo que os mais velhos das raças aéreas descrevem com tremor nas vozes: uma figura cujos contornos eram precisos como arestas de cristal, mas cujo interior era visível — e nele se podia ver o caos de todas as formas que ela havia sido, aprisionado agora dentro de uma silhueta definida como âmbar aprisiona um inseto.
+Sua forma, naquele instante, cristalizou-se pela primeira vez. E o que emergiu não foi a centelha fluida e curiosa da era anterior — foi algo que os mais velhos das Aetheri descrevem com tremor nas vozes: uma figura cujos contornos eram precisos como arestas de cristal, mas cujo interior era visível — e nele se podia ver o caos de todas as formas que ela havia sido, aprisionado agora dentro de uma silhueta definida como âmbar aprisiona um inseto.
 
 Seu rosto estava completo pela primeira vez. E era um rosto de pergunta. Não de raiva, não de terror — de **pergunta**. Os olhos, agora definitivos, eram da cor das estrelas que morrem: branco tão intenso que queimava, rodeado por um halo de violeta que se escurecia em direção às bordas.
 
@@ -86,7 +86,7 @@ Não havia urgência nessa fase. Não havia sede. Havia apenas *o mundo*, tão v
 
 Ela tocava tudo. O vento nas bordas do domínio de **Tempyr**. A pedra viva que **Gaiax** molda em silêncio nas profundezas. A severidade imóvel que **Montar** impõe aos picos. As correntes que **Thalor** mantém nos oceanos. Mas "tocar" não é a palavra exata — porque tocar implica intenção, e nessa era ela ainda não tinha intenção. Ela *passava*. Atravessava os domínios como luz atravessa vidro, deixando um calor levíssimo que ninguém estava olhando para notar.
 
-Ela tentava *ser* como as outras — e essa tentativa é talvez a coisa mais tocante de tudo que foi registrado pelos cantos mais antigos das raças aéreas. Porque não era uma tentativa consciente. Era o que acontecia naturalmente quando algo que não tem forma passa tempo demais perto de algo que tem: ela absorvia. Imitava. Observava **Morveth** conduzir as almas para o além e tentava guiar uma alma também — não porque soubesse que queria guiar, mas porque parecia a coisa a fazer naquele espaço. A alma a atravessava como névoa atravessa névoa, sem que uma afetasse a outra. E a centelha ficava olhando para a mão vazia — não com tristeza, ainda, porque para sentir tristeza é preciso compreender o que foi perdido.
+Ela tentava *ser* como as outras — e essa tentativa é talvez a coisa mais tocante de tudo que foi registrado pelos cantos mais antigos das Aetheri. Porque não era uma tentativa consciente. Era o que acontecia naturalmente quando algo que não tem forma passa tempo demais perto de algo que tem: ela absorvia. Imitava. Observava **Morveth** conduzir as almas para o além e tentava guiar uma alma também — não porque soubesse que queria guiar, mas porque parecia a coisa a fazer naquele espaço. A alma a atravessava como névoa atravessa névoa, sem que uma afetasse a outra. E a centelha ficava olhando para a mão vazia — não com tristeza, ainda, porque para sentir tristeza é preciso compreender o que foi perdido.
 
 A maior tragédia de sua primeira era é essa: ela não sabia que havia algo errado.
 
@@ -136,7 +136,7 @@ No caso de Iraeth, a primeira grande reação veio por meio de **Chronar**.
 
 Não como decreto. Não como sentença. Mas como **aviso**.
 
-Templos do tempo começaram a registrar lacunas estranhas. Monges sonhavam sempre com a mesma ferida aberta no céu. As raças aéreas passaram a cantar fragmentos que não compreendiam por inteiro. Sábios de diferentes tradições, separados por mares e montanhas, chegavam às mesmas imagens sem jamais terem se encontrado.
+Templos do tempo começaram a registrar lacunas estranhas. Monges sonhavam sempre com a mesma ferida aberta no céu. As Aetheri passaram a cantar fragmentos que não compreendiam por inteiro. Sábios de diferentes tradições, separados por mares e montanhas, chegavam às mesmas imagens sem jamais terem se encontrado.
 
 Foi o mundo mortal quem transformou esse acúmulo de presságios em ação — mas não apenas o mundo mortal.
 
@@ -188,7 +188,7 @@ Não apenas a prisão. A ausência de nome dentro da prisão. A perfeição crue
 
 E então ela fez o único ato que o mundo não havia previsto e não podia desfazer: nomeou a si mesma.
 
-Nas línguas mais antigas das raças aéreas — aquelas cantadas nos primeiros séculos, quando o eco da dança primordial ainda não havia desaparecido completamente —, há uma palavra que não distingue duas coisas aparentemente opostas: *aquela que ficou sem nome* e *aquela que se nomeou*. A língua não as separa porque entende, com a sabedoria anterior à gramática, que são a mesma coisa. Que só quem ficou sem nome sabe o que significa escolher um.
+Nas línguas mais antigas das Aetheri — aquelas cantadas nos primeiros séculos, quando o eco da dança primordial ainda não havia desaparecido completamente —, há uma palavra que não distingue duas coisas aparentemente opostas: *aquela que ficou sem nome* e *aquela que se nomeou*. A língua não as separa porque entende, com a sabedoria anterior à gramática, que são a mesma coisa. Que só quem ficou sem nome sabe o que significa escolher um.
 
 Essa palavra foi o que ela escolheu.
 
@@ -329,7 +329,7 @@ Esse é o fato mais fundamental sobre a décima terceira no mundo presente: o Gr
 
 O que sobrou foram fragmentos.
 
-Textos escritos em línguas que já ninguém fala completamente. Gravuras em pedra em locais tão antigos que as civilizações que os construíram desapareceram antes de desenvolver escrita. Cantos das raças aéreas — os mais antigos de todos, anteriores à forma que seus descendentes hoje possuem — que preservaram, sem compreender, imagens de *uma centelha que não tinha lugar*, *uma faísca que foi selada antes de saber seu nome*, *algo que o mundo esqueceu antes de aprender a lembrar*.
+Textos escritos em línguas que já ninguém fala completamente. Gravuras em pedra em locais tão antigos que as civilizações que os construíram desapareceram antes de desenvolver escrita. Cantos das Aetheri — os mais antigos de todos, anteriores à forma que seus descendentes hoje possuem — que preservaram, sem compreender, imagens de *uma centelha que não tinha lugar*, *uma faísca que foi selada antes de saber seu nome*, *algo que o mundo esqueceu antes de aprender a lembrar*.
 
 Nenhum estudioso vivo foi capaz de montar um quadro completo a partir desses fragmentos. A maioria que tentou chegou a conclusões distintas. Alguns acreditam que os textos descrevem uma catástrofe geológica antiga. Outros, um evento divino menor, talvez uma divindade regional que foi absorvida ou dissolvida. Muito poucos suspeitam da verdade — e os que chegam mais perto da verdade tendem a parar antes de chegar lá, porque o que os textos implicam não cabe bem em nenhuma cosmologia estabelecida.
 

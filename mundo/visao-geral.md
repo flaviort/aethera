@@ -15,7 +15,7 @@
 | Anões | Montanhas | Subterrâneo |
 | Sylvanos / Elfos | Florestas | Bordas de floresta |
 | Sereanos | Mares e oceanos | — |
-| Raças aéreas | Ilhas flutuantes | Topos de montanha |
+| Aetheri | Picos de montanha / As Agulhas de Aethera | — |
 | Raças subterrâneas | Mundo subterrâneo | Cavernas, pântanos |
 | Raças dos pântanos | Pântanos | Cavernas, bordas sombrias |
 
@@ -27,6 +27,6 @@ Cada raça possui afinidade natural com determinados elementos e tende a venerar
 
 ## O impacto do Eclipse Cósmico
 
-As Fissuras — feridas na realidade — aparecem em todos os biomas, mas com intensidades e consequências diferentes em cada região. Nenhuma raça está imune. Até as raças aéreas, que vivem em reclusão, começaram a observar com preocupação crescente.
+As Fissuras — feridas na realidade — aparecem em todos os biomas, mas com intensidades e consequências diferentes em cada região. Nenhuma raça está imune. Até as Aetheri, que vivem em reclusão, começaram a observar com preocupação crescente.
 
 > *Ver: historia/conflito-central.md para detalhes sobre o Eclipse.*
