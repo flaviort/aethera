@@ -1,7 +1,8 @@
-# Aethera — Game Design Document
+# Ashes and Echoes — Game Design Document
 
-> RPG de fantasia medieval 2D-HD, estilo Octopath Traveler
-> Desenvolvido em **Godot 4**
+> RPG de fantasia
+> Desenvolvido em **Godot 4?** (TBD)
+> Estilo **Octopath Traveler (2D-HD)?** (TBD)
 
 ---
 
@@ -36,8 +37,8 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 ## Tom e estilo
 
 - Fantasia medieval mística — sem futurismo ou tecnologia avançada
-- Visual **2D-HD** (Octopath Traveler, Final Fantasy IX, Sea of Stars)
-- Atmosfera **Studio Ghibli** — fantasioso, leve, com profundidade emocional
+- Visual **2D-HD** (Octopath Traveler, Final Fantasy IX, Sea of Stars) (TBD)
+- Atmosfera fantasioso, leve, com profundidade emocional
 - Tom **heróico**, com personagens de motivações individuais complexas
 
 ---
@@ -50,7 +51,6 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 | Narrativa | Chrono Trigger, Final Fantasy XIV, Zelda, Witcher 3 |
 | Estrutura de personagens | Octopath Traveler, Legend of Legaia |
 | Worldbuilding | Tolkien / Silmarillion, D&D, Dragon Age, WoW |
-| Atmosfera | Studio Ghibli |
 
 ---
 
@@ -146,6 +146,7 @@ Composição prevista: Guerreiro, Mago, Sacerdote, Arqueiro, Ladrão.
 gdd/
 ├── README.md                   ← este arquivo
 ├── historia/
+│   ├── cronologia.md           ← conta a história desde a criação em ordem cronológica até os dias atuais
 │   ├── criacao-do-mundo.md     ← Azharyon, Nythra, a dança, as faíscas
 │   ├── conflito-central.md     ← o estado atual, a Ordem da Chama Velha, o Selo
 │   └── profecia.md             ← o Evangelho das Cinzas
@@ -154,8 +155,9 @@ gdd/
 │   └── biomas.md               ← os 10 biomas detalhados
 ├── divindades/
 │   ├── divindades.md           ← visão geral das entidades divinas
-│   ├── dragoes-primordiais/    ← Azharyon e Nythra
-│   ├── grandes-faiscas/        ← as 12 Primordiais e Iraeth (iraeth/iraeth.md — documento principal)
+│   ├── dragoes-ancestrais/     ← Azharyon e Nythra
+│   ├── divindades-primordiais/ ← as 12 Primordiais
+│   ├── iraeth/                 ← história de iraeth (a décima terceira, fagulha esquecida)
 │   ├── divindades-menores/     ← deuses locais e centelhas
 │   └── espiritos-e-entidades/  ← guardiões, espíritos e presenças locais
 ├── racas/
@@ -167,6 +169,8 @@ gdd/
 │   ├── racas-aereas.md
 │   ├── racas-subterraneas.md
 │   └── racas-dos-pantanos.md
-└── herois/
-    └── grupo-de-aventureiros.md
+├── herois/
+│   └── grupo-de-aventureiros.md
+└── referencias/
+    └── imgs                    ← contém imagens e referencias visuais do mundo e de toda atmosfera
 ```
