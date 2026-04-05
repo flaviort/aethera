@@ -50,7 +50,7 @@ Existem também seres antigos que não se encaixam perfeitamente como divindades
 
 | Nome | Domínio | Raças ou povos que mais veneram | Arquivo de detalhes |
 |------|---------|----------------------------------|---------------------|
-| **Thalor** | Mares e Oceanos | Sereanos e povos marítimos | `divindades/grandes-faiscas/thalor/thalor.md` |
+| **Thalor** | Mares e Oceanos | Nerathi e povos marítimos | `divindades/grandes-faiscas/thalor/thalor.md` |
 | **Vulkar** | Fogo e Vulcões | Orcs e povos forjadores | `divindades/grandes-faiscas/vulkar/vulkar.md` |
 | **Gaiax** | Terra | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |
 | **Montar** | Montanhas | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |

@@ -4,7 +4,7 @@
 
 Vastas extensões de água que cobrem grande parte do mundo. Civilizações submersas completas existem nas profundezas, invisíveis às raças terrestres.
 
-- **Habitantes:** Sereanos, dragões marinhos, serpentes d'água, raças aquáticas diversas
+- **Habitantes:** Nerathi, dragões marinhos, serpentes d'água, raças aquáticas diversas
 - **Características:** Cidades submersas, correntes mágicas, zonas de profundidade inacessíveis
 - **Eclipse:** Criaturas das profundezas sobem à superfície; Fissuras abrem sob a água
 

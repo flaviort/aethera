@@ -197,7 +197,7 @@ O que isso significa, nenhum visitante ainda conseguiu extrair deles.
 | **Anões** | Guardadores de memória, respeitados como Montar é respeitada — em silêncio |
 | **Elfos / Sylvanos** | Parentes distantes da natureza espiritual, porém incompreensíveis |
 | **Orcs** | Fantasmas nos picos — irrelevantes para a vida cotidiana, temidos intuitivamente |
-| **Sereanos** | Praticamente desconhecidos — mundos diferentes demais |
+| **Nerathi** | Praticamente desconhecidos — mundos diferentes demais |
 | **Subterrâneos** | Rumores e lendas — poucos chegaram a ver um Aetheri de perto |
 
 ---

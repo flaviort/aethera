@@ -14,7 +14,7 @@
 | Orcs | Vulcões, montanhas | Pântanos, subterrâneo |
 | Anões | Montanhas | Subterrâneo |
 | Sylvanos / Elfos | Florestas | Bordas de floresta |
-| Sereanos | Mares e oceanos | — |
+| Nerathi | Mares e oceanos | — |
 | Aetheri | Picos de montanha / As Agulhas de Aethera | — |
 | Raças subterrâneas | Mundo subterrâneo | Cavernas, pântanos |
 | Raças dos pântanos | Pântanos | Cavernas, bordas sombrias |

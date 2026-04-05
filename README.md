@@ -81,7 +81,7 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 
 | Nome | Domínio | Raças que veneram |
 |------|---------|-------------------|
-| Thalor | Mares e Oceanos | Sereanos |
+| Thalor | Mares e Oceanos | Nerathi |
 | Vulkar | Fogo e Vulcões | Orcs |
 | Gaiax | Terra | Anões |
 | Montar | Montanhas | Anões |
@@ -122,7 +122,7 @@ As divindades não aparecem mais diretamente — viraram religiões, igrejas, or
 | Orcs | Vulcões, montanhas | Guerreiros, clãs, pouca magia |
 | Anões | Montanhas, subterrâneo | Forjadores, isolados, falam com espíritos |
 | Sylvanos / Elfos | Florestas | Guardiões da natureza |
-| Sereanos | Mares | Civilizações submersas |
+| Nerathi | Mares | Civilizações submersas |
 | Aetheri | Picos de montanha / As Agulhas de Aethera | Os mais antigos, guardiões da memória da criação |
 | Raças subterrâneas | Mundo subterrâneo | Artes arcanas das trevas |
 | Raças dos pântanos | Pântanos | Caóticas, espíritos de guerras antigas |
@@ -165,7 +165,7 @@ gdd/
 │   ├── orcs.md
 │   ├── anoes.md
 │   ├── sylvanos-elfos.md
-│   ├── sereanos.md
+│   ├── nerathi.md
 │   ├── aetheri.md
 │   ├── racas-subterraneas.md
 │   └── racas-dos-pantanos.md
