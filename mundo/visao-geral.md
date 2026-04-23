@@ -11,13 +11,13 @@
 | Raça | Bioma principal | Biomas secundários |
 |------|-----------------|--------------------|
 | Humanos | Campos e campinas | Quase todos |
-| Orcs | Vulcões, montanhas | Pântanos, subterrâneo |
+| Orcs | Vulcões, montanhas | Bordas dos pântanos, subterrâneo |
 | Anões | Montanhas | Subterrâneo |
 | Sylvanos / Elfos | Florestas | Bordas de floresta |
 | Nerathi | Mares e oceanos | — |
 | Aetheri | Picos de montanha / As Agulhas de Aethera | — |
-| Umbrynn | Mundo subterrâneo | Cavernas, pântanos |
-| Raças dos pântanos | Pântanos | Cavernas, bordas sombrias |
+| Umbrynn | Mundo subterrâneo | Cavernas, passagens para os pântanos |
+| Letharyn | Pântanos | Cavernas, bordas sombrias das florestas |
 
 ## Afinidades elementais por raça
 

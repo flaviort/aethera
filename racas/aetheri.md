@@ -199,6 +199,7 @@ O que isso significa, nenhum visitante ainda conseguiu extrair deles.
 | **Orcs** | Fantasmas nos picos — irrelevantes para a vida cotidiana, temidos intuitivamente |
 | **Nerathi** | Praticamente desconhecidos — mundos diferentes demais |
 | **Umbrynn** | Rumores e lendas — poucos chegaram a ver um Aetheri de perto |
+| **Letharyn** | Os Mnari conhecem fragmentos da tradição Aetheri há séculos; os Aetheri observam os pântanos com uma compaixão específica que ninguém mais conseguiria oferecer — reconhecem nos Letharyn o que pode acontecer com qualquer povo que o mundo decida não lembrar |
 
 ---
 

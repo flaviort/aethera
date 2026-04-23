@@ -7,7 +7,7 @@ Raça guerreira por natureza, os orcs habitam as terras mais inóspitas do mundo
 ## Território
 
 - **Principal:** Regiões vulcânicas, montanhas
-- **Secundário:** Pântanos, subterrâneo, encostas áridas
+- **Secundário:** Bordas dos pântanos Letharyn, subterrâneo, encostas áridas
 
 ## Características
 
@@ -40,6 +40,7 @@ Dificilmente um orc venerará as divindades de Justiça, Amor ou Luz.
 - Tradição oral forte — histórias de batalhas e conquistas passadas de geração em geração
 - Pouco interesse em comércio ou diplomacia com outras raças
 - Alguns clãs desenvolveram alianças com Umbrynn
+- Desprezam profundamente os Letharyn — para a cultura orc, deixar-se esquecer é a maior das vergonhas; lutar contra Mórgoblins é considerado caça, não guerra
 
 ## Impacto do Eclipse Cósmico
 

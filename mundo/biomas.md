@@ -52,11 +52,16 @@ Ecossistemas mágicos com vida própria. As árvores mais antigas têm consciên
 
 ## 6. Pântanos
 
-Terras decaídas, úmidas e sombrias. Infestadas de espíritos de guerras antigas. Beleza perturbadora e atmosfera de mistério constante.
+Terras decaídas, úmidas e sombrias — antigos campos de batalha que se inundaram ao longo de eras, hoje habitados pelos **Letharyn**, os Esquecidos. Beleza perturbadora e atmosfera de mistério constante.
 
-- **Habitantes:** Mortos-vivos, aparições, bruxas das trevas, moiras, duendes, goblins
-- **Características:** Ruínas afundadas, névoa permanente, espíritos de guerreiros caídos
-- **Eclipse:** As aparições ficam mais violentas; portais para o subterrâneo se abrem
+- **Habitantes:** Letharyn — povo de cinco linhagens unidas pela condição de terem sido apagados da memória do mundo:
+  - **Vethrym** (mortos-vivos que recusaram ou perderam a passagem para Morveth)
+  - **Lemuryn** (aparições — espíritos das guerras esquecidas)
+  - **Mnari** (bruxas e moiras — tecedoras da memória, organizadas em covens)
+  - **Sevredh** (duendes — colecionadores dos objetos perdidos no pântano)
+  - **Mórgoblins** (goblins dos pântanos, tribais e numerosos)
+- **Características:** Ruínas afundadas, névoa permanente, espíritos de guerreiros caídos, os **Sete Espelhos** (poças onde Lemuryn vislumbram quem foram), **Caer Letha** (sede dos Mnari), **Vael'Mern** (campo de batalha esquecido com mais de 200 mil mortos), **A Boca de Morveth** (cratera onde almas finalmente cruzam), **Thren-Ravec** (cidade-tribo Mórgoblin construída em ruínas de ferro)
+- **Eclipse:** Os Lemuryn — antes previsíveis em sua *quase-paz* — começaram a falar em fragmentos de um nome que não pertence a eles; cada "purificação" da Ordem da Chama Velha em sítios distantes provoca uma nova fala; os Vethrym estão se movendo sem direção aparente; os Mnari começaram a ter sonhos compartilhados de uma cidade que nenhum Letharyn jamais visitou; portais para o subterrâneo se abrem
 
 ---
 
@@ -94,6 +99,6 @@ Vastos territórios férteis, próximos a lagos e bordas de floresta. O coraçã
 
 Uma rede imensa de cavernas, túneis e abismos que se estende por baixo de todos os outros biomas. Cidades completas existem aqui.
 
-- **Habitantes:** Elfos negros, minotauros, ciclopes, anões (zonas de mineração), raças dos pântanos
+- **Habitantes:** Elfos negros, minotauros, ciclopes, anões (zonas de mineração), Letharyn (em passagens que conectam pântanos e cavernas — particularmente Mnari e Mórgoblins, que mantêm trocas históricas com os Umbrynn do primeiro e segundo nível)
 - **Características:** Cidades de pedra, cristais luminescentes, artes arcanas das trevas
 - **Eclipse:** Fissuras abrem direto nas cidades; demônios emergem das partes mais profundas

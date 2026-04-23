@@ -241,6 +241,7 @@ O problema é que o que sabem não é reconfortante.
 | **Aetheri** | Os únicos que conhecem os Nerathi há tempo suficiente para entendê-los; pouco contato, muito respeito mútuo |
 | **Orcs** | O mar é hostil — os que vivem nele devem ser hostis também |
 | **Subterrâneos** | Rumores de que as profundezas do oceano e as profundezas da terra quase se tocam em certos pontos; interesse geológico |
+| **Letharyn** | Os Glaciais de Kor'Thal guardam, em tradição oral, registros de guerras antigas que os Mnari de Caer Letha um dia precisarão consultar — reconhecimento mútuo entre dois povos cuja vocação é a mesma: não deixar que nada se perca de vez |
 
 ---
 

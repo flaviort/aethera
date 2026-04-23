@@ -91,7 +91,7 @@ Mas uma última faísca caiu depois, sem propósito, sem nome: **Iraeth**.
 | Aeris | Ventos | Aetheri |
 | Tempyr | Tempestades | Aetheri, Marinhos |
 | Nymara | Vida | Elfos, Humanos |
-| Morveth | Morte | Pântanos, Umbrynn |
+| Morveth | Morte | Letharyn (centralmente), Umbrynn |
 | Chronar | Tempo | Monges, Aetheri |
 
 As divindades não aparecem mais diretamente — viraram religiões, igrejas, ordens e guerras.
@@ -125,7 +125,7 @@ As divindades não aparecem mais diretamente — viraram religiões, igrejas, or
 | Nerathi | Mares | Civilizações submersas |
 | Aetheri | Picos de montanha / As Agulhas de Aethera | Os mais antigos, guardiões da memória da criação |
 | Umbrynn | Mundo subterrâneo | Artes arcanas das trevas |
-| Raças dos pântanos | Pântanos | Caóticas, espíritos de guerras antigas |
+| Letharyn | Pântanos | Os Esquecidos — povo de cinco linhagens (Vethrym, Lemuryn, Mnari, Sevredh, Mórgoblins) unido pela condição de terem sido apagados da memória do mundo |
 
 ---
 
@@ -168,7 +168,7 @@ gdd/
 │   ├── nerathi.md
 │   ├── aetheri.md
 │   ├── umbrynn.md
-│   └── racas-dos-pantanos.md
+│   └── letharyn.md
 ├── herois/
 │   └── grupo-de-aventureiros.md
 └── referencias/

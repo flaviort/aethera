@@ -43,7 +43,7 @@ Os **Trolls** habitam passagens maiores, mais brutas — são os que as raças d
 
 Os **Goblins** existem em todos os primeiros níveis como a raça mais adaptável e mais numerosa das profundezas rasas. São os comerciantes, os intermediários, os mensageiros. Vivem em grupos de tamanhos impossíveis de precisar — comunidades que aparecem e desaparecem com rapidez que desconcerta qualquer cartógrafo. Falam mais línguas do que qualquer outra raça de Aethera, porque precisam.
 
-O primeiro nível tem fronteiras porosas com os pântanos e com os anões das montanhas — há passagens naturais que conectam esses mundos, e o comércio e o conflito fluem por elas há eras.
+O primeiro nível tem fronteiras porosas com os pântanos dos Letharyn e com os anões das montanhas — há passagens naturais que conectam esses mundos, e o comércio e o conflito fluem por elas há eras. Os Goblins do primeiro nível, em particular, mantêm relações antigas (e às vezes confusas, do ponto de vista dos forasteiros) com os Mórgoblins dos pântanos — partilham origem distante, mas séculos de adaptação a ambientes opostos os tornaram parentes apenas no nome.
 
 ---
 

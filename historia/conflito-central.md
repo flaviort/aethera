@@ -9,7 +9,7 @@ Isso está mudando.
 Nas últimas décadas, algo começou a acontecer no mundo. Não de forma dramática — não ainda. Mas perceptível para quem sabe onde olhar:
 
 - **Fissuras** aparecem em pontos aleatórios — rachaduras na realidade visível, de onde emanam luz e sons impossíveis
-- **Criaturas extintas** reaparecem em florestas e pântanos — seres que existiam apenas em contos antigos, extintos há milênios, sem nenhuma explicação
+- **Criaturas extintas** reaparecem em florestas e nos pântanos dos Letharyn — seres que existiam apenas em contos antigos, extintos há milênios, sem nenhuma explicação. Os Mnari de Caer Letha foram dos primeiros a registrar o padrão, embora ninguém de fora dos pântanos ainda tenha cruzado os dados
 - **Distorções temporais** atingem certos lugares — onde passado e futuro se sobrepõem por instantes, deixando aqueles que testemunham sem palavras para descrever o que viram
 - **Os presságios mudaram** — em templos de Chronar especialmente, os sinais que os monges recebem há séculos de forma consistente começaram a chegar diferentes: não informativos, mas emocionais. Como luto por algo que ainda está por vir
 
@@ -48,6 +48,22 @@ Por baixo de tudo — das Fissuras, das criaturas extintas, das distorções e d
 Não apenas pelos rituais. A ira acumulada em milênios de prisão pressiona de dentro. Cada distorção temporal é um sonho que escoa para fora do espaço-entre. Cada criatura extinta que retorna é um eco de eras que apenas ela ainda recorda. O Selo foi construído para durar — mas nunca foi pensado para durar para sempre.
 
 A causa e o efeito se retroalimentam: quanto mais o Selo fraqueja, mais a ira dentro cresce. Quanto mais a ira cresce, mais o Selo fraqueja.
+
+---
+
+## A Observação que Ninguém Cruzou — Os Mnari Letharyn
+
+Há uma coisa que os Mnari dos pântanos perceberam há vinte anos e que ninguém fora dos pântanos jamais viu: **cada vez que a Ordem da Chama Velha "purifica" um sítio antigo, em algum ponto distante de Aethera, pelo menos um Lemure dos pântanos fala**. E o que fala é sempre um fragmento — uma sílaba, um som, uma vogal arrastada — de um nome que não pertence à identidade que o Lemure estava tentando recuperar.
+
+Os Mnari começaram a coletar esses fragmentos.
+
+Demoraram anos para perceber que formavam uma sequência. Mais tempo ainda para perceber que a sequência montava **um único nome**.
+
+Esse nome ainda não está completo. Mas o que já se reuniu basta para que as Mnari mais velhas tenham parado de comer regularmente, e para que estejam — pela primeira vez em mais de mil anos — considerando enviar emissárias para fora dos pântanos.
+
+Ninguém ligou ainda os pontos: que o nome que se forma nos pântanos é o nome que está dentro do Selo. Que cada drenagem da Ordem é, ao mesmo tempo, um enfraquecimento do Selo *e* uma fala de Iraeth vazando pela rachadura mais antiga que existe — a rachadura dos próprios Letharyn, povos cuja existência inteira é precisamente o tipo de coisa que Iraeth é. Esquecidos. Sem nome próprio. Nascidos da margem do mundo.
+
+Os heróis que conseguirem chegar a Caer Letha e convencer os Mnari a compartilhar o que reuniram terão acesso ao único registro vivo do verdadeiro inimigo. Os que não chegarem precisarão descobrir tudo do zero.
 
 ---
 

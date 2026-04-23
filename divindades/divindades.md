@@ -4,10 +4,11 @@ Este arquivo centraliza a visão geral das entidades divinas de Aethera. Os deta
 
 ## Estrutura
 
-- `divindades/dragoes-primordiais/` — Azharyon e Nythra
-- `divindades/grandes-faiscas/` — as 12 Primordiais e Iraeth
+- `divindades/divindades-primordiais/` — as 12 Primordiais (Thalor, Vulkar, Gaiax+Montar, Sylvael, Lumien, Noctra, Aeris, Tempyr, Nymara, Morveth, Chronar)
+- `divindades/dragoes-ancestrais/` — Azharyon e Nythra
 - `divindades/divindades-menores/` — deuses locais e centelhas mais presentes no cotidiano
 - `divindades/espiritos-e-entidades/` — espíritos, guardiões e presenças ligadas a lugares específicos
+- `divindades/iraeth/` — a Décima Terceira Faísca (caso especial — pasta própria)
 
 # Aethera — As 12 Divindades Primordiais
 
@@ -50,24 +51,24 @@ Existem também seres antigos que não se encaixam perfeitamente como divindades
 
 | Nome | Domínio | Raças ou povos que mais veneram | Arquivo de detalhes |
 |------|---------|----------------------------------|---------------------|
-| **Thalor** | Mares e Oceanos | Nerathi e povos marítimos | `divindades/grandes-faiscas/thalor/thalor.md` |
-| **Vulkar** | Fogo e Vulcões | Orcs e povos forjadores | `divindades/grandes-faiscas/vulkar/vulkar.md` |
-| **Gaiax** | Terra | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |
-| **Montar** | Montanhas | Anões | `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md` |
-| **Sylvael** | Florestas | Elfos e Sylvanos | `divindades/grandes-faiscas/sylvael/sylvael.md` |
-| **Lumien** | Luz | Humanos e Aetheri | `divindades/grandes-faiscas/lumien/lumien.md` |
-| **Noctra** | Trevas | Umbrynn e ordens ocultas | `divindades/grandes-faiscas/noctra/noctra.md` |
-| **Aeris** | Ventos | Aetheri | `divindades/grandes-faiscas/aeris/aeris.md` |
-| **Tempyr** | Tempestades | Aetheri e Nerathi | `divindades/grandes-faiscas/tempyr/tempyr.md` |
-| **Nymara** | Vida | Elfos e Humanos | `divindades/grandes-faiscas/nymara/nymara.md` |
-| **Morveth** | Morte | Povos dos pântanos e Umbrynn | `divindades/grandes-faiscas/morveth/morveth.md` |
-| **Chronar** | Tempo | Monges, cronistas e Aetheri | `divindades/grandes-faiscas/chronar/chronar.md` |
+| **Thalor** | Mares e Oceanos | Nerathi e povos marítimos | `divindades/divindades-primordiais/thalor/thalor.md` |
+| **Vulkar** | Fogo e Vulcões | Orcs e povos forjadores | `divindades/divindades-primordiais/vulkar/vulkar.md` |
+| **Gaiax** | Terra | Anões | `divindades/divindades-primordiais/gaiax-montar/gaiax-montar.md` ✓ |
+| **Montar** | Montanhas | Anões | `divindades/divindades-primordiais/gaiax-montar/gaiax-montar.md` ✓ |
+| **Sylvael** | Florestas | Elfos e Sylvanos | `divindades/divindades-primordiais/sylvael/sylvael.md` |
+| **Lumien** | Luz | Humanos e Aetheri | `divindades/divindades-primordiais/lumien/lumien.md` |
+| **Noctra** | Trevas | Umbrynn e ordens ocultas | `divindades/divindades-primordiais/noctra/noctra.md` |
+| **Aeris** | Ventos | Aetheri | `divindades/divindades-primordiais/aeris/aeris.md` |
+| **Tempyr** | Tempestades | Aetheri e Nerathi | `divindades/divindades-primordiais/tempyr/tempyr.md` |
+| **Nymara** | Vida | Elfos e Humanos | `divindades/divindades-primordiais/nymara/nymara.md` |
+| **Morveth** | Morte | Letharyn (centralmente) e Umbrynn | `divindades/divindades-primordiais/morveth/morveth.md` |
+| **Chronar** | Tempo | Monges, cronistas e Aetheri | `divindades/divindades-primordiais/chronar/chronar.md` ✓ |
 
 ## Caso Especial: Gaiax E Montar
 
 Gaiax e Montar são as **Irmãs de Pedra**, gêmeas nascidas da mesma faísca que se partiu em dois no momento da criação. Por isso, seus detalhes permanecem juntos em:
 
-- `divindades/grandes-faiscas/gaiax-montar/gaiax-montar.md`
+- `divindades/divindades-primordiais/gaiax-montar/gaiax-montar.md` ✓
 
 Contos como o das irmãs, seus temperamentos, sinais, culto anão e demais aprofundamentos devem ficar nesse arquivo específico, e não neste índice central.
 
@@ -95,8 +96,22 @@ Isso fez surgir, ao longo dos milênios:
 | Cidades Umbrynn | Noctra | Ordens arcanas e segredos antigos |
 | Ilhas Flutuantes | Aeris / Chronar | Povos mais próximos da cosmogonia original |
 | Oceanos | Thalor | Templos submersos e ritos marítimos |
-| Pântanos | Morveth | Cultos funerários e espíritos antigos |
+| Pântanos (Letharyn) | Morveth (com Noctra) | Mnari recuperam nomes apagados; covens guardam o **Tear** com dezenas de milhares de almas restituídas a Morveth |
 | Cultos Proibidos | **Iraeth** | Ilegais na maioria dos reinos |
+
+## Os Letharyn — O Caso Teológico Singular
+
+Nenhum povo de Aethera tem uma relação tão complexa com o panteão quanto os **Letharyn**. Sua condição existencial — terem sido esquecidos pelo mundo — produziu uma teologia que cruza várias divindades de formas que nenhuma outra cultura tenta:
+
+- **Morveth** é central, mas não como deusa da morte genérica — como deusa do **ciclo correto da morte**, cujo trabalho os Letharyn passam a vida tentando completar para os que ficaram para trás. Os Mnari se descrevem como *as servas que limpam a entrada do templo*.
+- **Noctra** é venerada pelos covens Mnari mais profundos. Para os Letharyn, as Trevas não são vazio — são o invólucro que protege a memória esquecida até que alguém venha buscá-la. A reputação de "bruxas das trevas" tem um fundo de verdade, lida pelo ângulo errado.
+- **Vulkar** é objeto de hostilidade ritual: é o deus que alimentou as guerras esquecidas que mataram os Lemuryn. Alguns covens Mnari mantêm rituais anuais de imprecação contra ele — a única forma de protesto teológico organizado contra uma das doze Primordiais que existe em Aethera.
+- **Chronar** é tratado com reverência cautelosa. O Tempo é o que faz o trabalho do esquecimento, mas também o que preserva pelo longo prazo. Há tradições Mnari que sugerem um pacto antigo entre Chronar e Morveth especificamente sobre os Letharyn — honrado em parte, quebrado em parte.
+- **Iraeth** — aqui o caso é singular. Os Letharyn não a conhecem pelo nome. Mas, mais do que qualquer outro povo, são **estruturalmente próximos dela**: Iraeth é a faísca que foi esquecida antes de ser conhecida, sem nome, sem domínio, sem registro. Os arquivos mais antigos de Caer Letha contêm fragmentos sobre *"Aquela que foi esquecida antes de ser lembrada"*. A maioria assume metáfora. Algumas Mnari, agora, suspeitam que não.
+
+Detalhes completos em: `racas/letharyn.md`.
+
+---
 
 ## Notas Importantes
 
@@ -115,4 +130,13 @@ O que o mundo percebe são os efeitos: Fissuras, distorções, criaturas extinta
 
 Mais detalhes em:
 
-- `divindades/grandes-faiscas/iraeth/iraeth.md`
+- `divindades/iraeth/iraeth.md` ✓
+
+---
+
+## Dragões Ancestrais
+
+Azharyon e Nythra não são divindades no sentido estrito — são as entidades primordiais de cuja dança nasceram as faíscas que originaram todas as demais. Seus arquivos e arte de referência estão em:
+
+- `divindades/dragoes-ancestrais/azharyon/` *(arte disponível — .md a criar)*
+- `divindades/dragoes-ancestrais/nythra/` *(arte disponível — .md a criar)*
